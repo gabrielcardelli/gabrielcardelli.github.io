@@ -4,3 +4,11 @@ pre.prettyprint {
   border: 1px solid #eee;
   border-radius: 20px 0px 20px 0px;
 }
+
+
+.box {
+
+  background-color: #fff;
+  border: 3px solid #ccc;
+
+}
